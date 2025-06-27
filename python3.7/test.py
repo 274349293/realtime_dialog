@@ -742,7 +742,7 @@ async def main():
         "enable_douban_logging": True,  # 是否显示豆包回复日志
         "max_rounds": 6,  # 最大对话轮数
         "response_length_limit": 180,  # 回复长度限制
-        "temperature": 0.85,  # GPT-4o创造性（0-1）
+        "temperature": 0.85,
         "enable_round_control": True,  # 是否启用轮数控制
         "auto_disconnect": False,  # 是否自动断开连接（新增）
     }

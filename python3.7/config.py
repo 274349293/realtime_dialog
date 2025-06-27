@@ -23,7 +23,7 @@ start_session_req = {
         },
     },
     "dialog": {
-        "bot_name": "企业培训讲师",
+        "bot_name": "豆包",
         }
 }
 
